@@ -64,5 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Tawk.to is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://tawk.to/
+Tawk.to provides a free live chat software platform that enables businesses to communicate with website visitors in real time. It offers a suite of products including live chat, inbox, chat pages, knowledge base, CRM, pipeline automation, and various add‑ons. Millions of companies use tawk.to to deliver customer support, capture leads, and integrate chat into their tech stack via JavaScript APIs, webhooks, and Zapier integrations. The service is free‑forever with optional paid add‑ons, and it emphasizes ease of use, multilingual support, and extensive documentation for developers.
+
+**Areas:** Company · LiveChat · CustomerSupport · FreeSoftware · DeveloperTools
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://tawk.to/)
+- [Documentation](https://www.tawk.to/resources/developers/)
+- [Getting started](https://dashboard.tawk.to/signup)
+- [API reference](https://developer.tawk.to/)
+- [Pricing](https://www.tawk.to/why-free/)
+- [Support](https://help.tawk.to/)
+- [Blog](https://www.tawk.to/resources/blog/)
+- [Security](https://www.tawk.to/security/)
+- [Terms of service](https://www.tawk.to/terms-of-service/)
+- [GitHub](https://github.com/tawk)
+- [Status](http://status.tawk.to)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/tawk-to/](https://apis.io/providers/tawk-to/).
